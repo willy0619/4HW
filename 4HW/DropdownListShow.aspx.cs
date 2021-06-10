@@ -10,7 +10,7 @@ namespace _4HW {
         protected void Page_Load(object sender, EventArgs e) {
             if(ddl_Area.SelectedValue == "")
             {
-                ddl_Area.Items.Add("北區");
+                ddl_Area.Items.Add("北區"); 
                 ddl_Area.Items.Add("中區");
             }    
 
