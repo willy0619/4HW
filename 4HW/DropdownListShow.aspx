@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
 </head>
-<body>
+<body> 
     <form id="form1" runat="server">
         <div>
             <asp:DropDownList ID="ddl_Area" runat="server" AutoPostBack="True"></asp:DropDownList><br />
